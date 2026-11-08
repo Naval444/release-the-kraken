@@ -1,23 +1,5 @@
-HI, we are KRAKEN.
+Release the Kraken
 
-We are CMPUT 301 students who are all working together to make an Event Lottery System Application.
+An Android app for running event sign-ups through a lottery. Organizers create events, entrants join a waiting list, and the app randomly draws who gets a spot. Selected entrants accept or decline in the app, and declined spots go to the next person drawn from the list.
 
-We are currently working on this project, so far we have made a backlog, Storyboard, UI mockups along with CRC cards, which can all be accessed in the our 
-* [WIKI](https://github.com/CMPUT301W26-Kraken/realease-the-kraken/wiki)
-
-Keep following along to see our progress and how our app finally looks!!!
-
-
-
-
-
-## **Members**
-| CCID     | Github Username | Name   |
-|----------|------------------|--------|
-| kalmykov    | Alexk177     | Alex   |
-| jtensen| ThyJFKexperience   | Jake   |
-| edorn| e-dorn       | Ethan|
-|  mcomrie|  max-comrie| Max|
-| nsachar | nsachar-png | Naval|
-| nandal| nandal3504| Shiven|
-
+Built in Java by a team of six for a Software Engineering project. 
