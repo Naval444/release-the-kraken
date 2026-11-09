@@ -4,10 +4,14 @@ An Android app that runs event sign-ups through a lottery. Organizers create eve
 
 I built this with a team of six in a university software engineering course. The app is written in Java in Android Studio, and Firebase handles the backend: the database, image storage, sign-in, and push notifications.
 
-  <img src="screenshots/image1.png" width="200" alt="App screenshot 1">
-  <img src="screenshots/image2.png" width="200" alt="App screenshot 2">
-  <img src="screenshots/image3.png" width="200" alt="App screenshot 3">
-  <img src="screenshots/image4.png" width="200" alt="App screenshot 4">
+<table align="center">
+  <tr>
+    <td align="center"><img src="screenshots/image1.png" width="180" alt="Home screen"><br><b>Home</b></td>
+    <td align="center"><img src="screenshots/image2.png" width="180" alt="Event details"><br><b>Event details</b></td>
+    <td align="center"><img src="screenshots/image3.png" width="180" alt="Profile"><br><b>Profile</b></td>
+    <td align="center"><img src="screenshots/image4.png" width="180" alt="Location permission prompt"><br><b>Location prompt</b></td>
+  </tr>
+</table>
 
 ## Features
 
